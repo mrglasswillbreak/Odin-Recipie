@@ -20,6 +20,7 @@ strong {
 
 h2 {
 	margin: 0px;
+	color: black;
 }
 
 div {
@@ -27,10 +28,6 @@ div {
 	padding: 20px;
 	border-radius: 15px;
 	margin-bottom: 30px;
-}
-
-h2 {
-	color: black;
 }
 
 li {
